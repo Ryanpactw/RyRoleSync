@@ -1,0 +1,1 @@
+Este projeto é apenas para importar a logo do bot utilizada na config.yml do plugin RyRoleSync.
